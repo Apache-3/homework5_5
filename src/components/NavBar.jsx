@@ -7,7 +7,7 @@ export const NavBar = () => {
     return (
         <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center'}}>
             <div className="logo">
-                logo
+                APACHE
             </div>
             <nav>
                 <ul style={{display: 'flex', listStyle: 'none', gap: '10px'}}>
